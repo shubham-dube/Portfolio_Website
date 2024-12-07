@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Money Minds \"Mobile App\"",
+    "desc": "I have Designed and implemented the app's UI/UX and It is edtech platform, where users can learn about finance with AI. Team (Shrey, me, Uday)",
+    "image": "money_minds",
+    "category": "flutter",
+    "links": {
+      "view": "",
+      "code": "https://github.com/shubham-dube/Money-Minds-Flutter-Application"
+    }
+  },
+  {
+    "name": "Car Connect \"Mobile App\"",
+    "desc": "Car Services & Product E-Commerce Two Interface (Merchant & Consumer) Flutter Application build using Flutter, Firebase, Nodejs and MongoDB",
+    "image": "car_connect",
+    "category": "flutter",
+    "links": {
+      "view": "",
+      "code": "https://github.com/shubham-dube/Car_Services_Flutter_Application_Merchant_Consumer_Two_Interfaces"
+    }
+  },
+  {
+    "name": "GPA Genie \"Chrome Extension\"",
+    "desc": "Chrome Extension to calculate GPA & Making of Report from IIIT Raichur College's AIMS Portal built using chrome API's & ",
+    "image": "gpa_genie",
+    "category": "chrome_extension",
+    "links": {
+      "view": "https://chromewebstore.google.com/detail/gpa-genie/jngdobcmcgkecmflglfdbnjnaekmobfn",
+      "code": "https://github.com/shubham-dube/IIITR_AIMS-GPA-Calculator-Chrome_Extension"
+    }
+  },
+  {
+    "name": "Redaction/Masking \"REST API\"",
+    "desc": "Developed API to mask the sensitive data for any type of files (pdf, image etc.) built using Python, NLP, Tesseract etc.It's a Team Project (Anuja, Keshvi & Me)",
+    "image": "redaction_tool",
+    "category": "rest_api",
+    "links": {
+      "view": "",
+      "code": "https://github.com/shubham-dube/PII_Detection_Tool"
+    }
+  },
+  {
+    "name": "College App \"Mobile Application\"",
+    "desc": "Features: Attendance, Class Schedules, Professor Course and Class Management System (Two Apps) built with Flutter, Node.Js, MongoDB. Team (Nandini, Khushi, Sarthak, Ishani, Anand, Me)",
+    "image": "iiitr_student",
+    "category": "flutter",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khushi-Pandit/Institute-QR-Attendance-Flutter-Application"
+    }
+  },
+  {
+    "name": "IRCTC Ticket Automation System",
+    "desc": "Prefilling and Then one click booking, built with Python, Selenium, PyQt. Team (Khushi Pandit, Me). Disclaimer: Made for Educational Purpose only.",
+    "image": "irctc_redaction",
+    "category": "automation",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
