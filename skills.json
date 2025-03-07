@@ -78,5 +78,25 @@
     {
         "name": "Flask",
         "icon": "https://img.icons8.com/?size=48&id=13186&format=png&color=000000"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000"
+    },
+    {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/color/48/000000/tailwindcss.png"
+    },
+    {
+        "name": "WebSocket",
+        "icon": "https://img.icons8.com/?size=48&id=106729&format=png&color=000000"
     }
 ]
