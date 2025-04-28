@@ -1,0 +1,44 @@
+.privacy_policy_section {
+    margin-top: 50px;
+    padding: 50px 20px;
+    background: #f9f9f9;
+    min-height: 100vh;
+}
+
+.privacy_policy_section .container {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.wrapper h1.title {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #333;
+}
+
+.wrapper .date {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+.wrapper h2 {
+    margin-top: 30px;
+    color: #222;
+    font-size: 24px;
+}
+
+.wrapper p, .wrapper ul {
+    color: #555;
+    line-height: 1.8;
+}
+
+.wrapper ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
