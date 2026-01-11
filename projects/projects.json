@@ -1,12 +1,32 @@
 [
-  {
-    "name": "Money Minds \"Mobile App\"",
-    "desc": "I have Designed and implemented the app's UI/UX and It is edtech platform, where users can learn about finance with AI. Team (Shrey, me, Uday)",
-    "image": "money_minds",
+    {
+    "name": "Debtorz \"Business Debt Tracker\"",
+    "desc": "A production-ready debt management platform built from scratch. Features pixel-perfect UI, a local DB-powered chat system for team collaboration, and advanced financial analytics with robust security protocols.",
+    "image": "debtorz",
     "category": "flutter",
     "links": {
-      "view": "https://shubhamdube.in/assets/apps/Money_Minds.apk",
-      "code": "https://github.com/shubham-dube/Money-Minds-Flutter-Application"
+      "view": "https://play.google.com/store/apps/details?id=com.debtorz.app&hl=en_IN",
+      "code": ""
+    }
+  },
+  {
+    "name": "CodeScrybe - Legacy Repo Chat AI",
+    "desc": "Full-stack application featuring a RAG Pipeline for semantic analysis of legacy GitHub codebases. Utilizes Graph Databases to store and query code relationships. Built with React, Python, FastAPI, MongoDB, and Neo4J.",
+    "image": "github",
+    "category": "ai",
+    "links": {
+      "view": "",
+      "code": "https://github.com/shubham-dube/CodeScrybe"
+    }
+  },
+  {
+    "name": "Flow Dash - Task Management",
+    "desc": "A real-time project management application designed for team collaboration. Implemented using Next.js, MongoDB, and WebSockets to ensure instant updates and live synchronization across users.",
+    "image": "flowdash",
+    "category": "website",
+    "links": {
+      "view": "https://flowdash.shubhamdube.in",
+      "code": "https://github.com/shubham-dube/flowdash"
     }
   },
   {
@@ -29,27 +49,7 @@
       "code": "https://github.com/shubham-dube/IIITR_AIMS-GPA-Calculator-Chrome_Extension"
     }
   },
-  {
-    "name": "Redaction/Masking \"REST API\"",
-    "desc": "Developed API to mask the sensitive data for any type of files (pdf, image etc.) built using Python, NLP, Tesseract etc.It's a Team Project (Anuja, Keshvi & Me)",
-    "image": "redaction_tool",
-    "category": "rest_api",
-    "links": {
-      "view": "",
-      "code": "https://github.com/shubham-dube/PII_Detection_Tool"
-    }
-  },
-  {
-    "name": "College App \"Mobile Application\"",
-    "desc": "Features: Attendance, Class Schedules, Professor Course and Class Management System (Two Apps) built with Flutter, Node.Js, MongoDB. Team (Nandini, Khushi, Sarthak, Ishani, Anand, Me)",
-    "image": "iiitr_student",
-    "category": "flutter",
-    "links": {
-      "view": "https://shubhamdube.in/assets/apps/IIITR_student.apk",
-      "code": "https://github.com/Khushi-Pandit/Institute-QR-Attendance-Flutter-Application"
-    }
-  },
-  {
+    {
     "name": "IRCTC Ticket Automation System",
     "desc": "Prefilling and Then one click booking, built with Python, Selenium, PyQt. Team (Khushi Pandit, Me). Disclaimer: Made for Educational Purpose only.",
     "image": "irctc_redaction",
